@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/qml/main.qml</file>
+        <file>resources/qml/ImageView.qml</file>
+        <file>resources/qml/ThumbnailBar.qml</file>
+        <file>resources/icons/application.svgz</file>
+        <file>resources/images/background.jpg</file>
+    </qresource>
+</RCC>
